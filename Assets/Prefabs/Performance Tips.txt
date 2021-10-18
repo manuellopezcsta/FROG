@@ -1,0 +1,3 @@
+- Use coroutines instead of Invoke Repeating
+- Use sqrMagnitude instead of Distance.
+- Cache transform as myTransform = transform;

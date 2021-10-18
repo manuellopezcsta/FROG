@@ -1,0 +1,92 @@
+
+YOU ARE A HUNGRY FROG AND HAVE A LIMITED NUMBER OF JUMPS TO GET YOUR FOOD. Can you solve the puzzle?.
+
+- El texto no sale detras del sapo.
+
+- La GameMusic no se destruye al entrar a la post screen. (En post screen encontrarla y borrarla)
+
+- El tiempo se suma si completas el nivel pero tocas un spike y se tiene que reiniciar.
+
+- FIX Si se sale del juego, y se elige otro gamemode el lector de gamemode lee un MMvar... pero el selector cambia el otro. DONE
+
+- Funcion que borre los PlayerPref de tiempo al salir del juego. DONE
+
+- Pantalla de you won que muestre estadisticas. (Despues de hacer niveles) DONE
+
+- Implementar modo Desarrollador para los botones de debugeo. DONE
+
+- Volumen que pase de un nivel a otro. DONE
+
+- Barra de Vol que funcione en menu pausa. DONE
+
+- Funcion de modo puzzle que ande y pantalla de you lost  DONE
+
+- Main menu 90 ref not set.? DONE
+
+- Musica x2 ?? DONE , Siguen existiendo 2.. pero solo 1 se reproduce.
+
+- KeepMenuVariables x2 ?? No lo pude solucionar pero anda bien. DONE ????
+
+- Menu Pausa DONE
+
+- Arreglar el Level Controler (Si jugas dos veces el nivel 1 x ej no pasa bien) DONE
+
+- Level Select. DONE
+
+-Check grounded before jumping. DONE
+
+- Restart x si se traba. DONE
+
+-Pick Ups + Animation. DONE
+
+-Level Swapping. DONE
+
+-Pick Up Counter. DONE
+
+-Main char + Animations. DONE
+
+-Spikes DONE
+
+-Ice DONE
+
+- Paredes que permiten rebotar. DONE
+
+-Some kind of Timer ? DONE
+
+- Sounds.( Main menu music / play music ) DONE.
+
+-Enemigos ?
+
+- Line Renderer Glitch.
+
+- Arreglar Bordes.
+
+- IGM Slider only works before resetting.
+
+- Juego propio rompecabezas.
+
+
+GAMEMODES:
+
+- Free
+The first mode created to explore the game levels and get familiar with them.
+- Challenge Mode
+You get a limited number of jumps per level making it harder.
+- SpeedRun
+You have no limit to movement but you are being clocked to see how fast you can complete the game.
+
+
+Dificultades:
+- Enemigo que salta y te sigue.. si te toca perdes.
+- Pinchos DONE
+- Plataforma que se mueva?
+
+Fondos Variados?
+Onda World 1 un Fondo
+y asi...
+
+
+NOT FOR NOW:
+
+-Cinemabench Camera. ??
+-Fondo que se mueve. ?? Creo q estas 2 quedan mejor en otro juego.
